@@ -1,2 +1,7 @@
-# hello-world
-my first program,ashad 6
+#include<stdio.h<
+#inckude<conio.h>
+int main()
+{
+printf("hello world");
+getch();
+}
